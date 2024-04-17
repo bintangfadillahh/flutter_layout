@@ -6,4 +6,4 @@
 
 <h2>Screenshot Projek yang telah dijalankan</h2>
 
-![Projek](Screenshot/run_projek.png)
+![Projek](Screenshot/run_projek.jpg)
