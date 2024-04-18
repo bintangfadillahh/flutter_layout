@@ -2,7 +2,7 @@
 
 <h2>Screenshot Editor yang digunakan</h2>
 
-![Editor screenshot](Screenshot/editor.png)
+![Editor screenshot](Screenshot/editor_ss.png)
 
 <h2>Screenshot Projek yang telah dijalankan</h2>
 
