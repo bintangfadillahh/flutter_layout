@@ -4,6 +4,8 @@
 
 ![Editor screenshot](Screenshot/editor_ss.png)
 
+![Widget screenshot](Screenshot/widget.png)
+
 <h2>Screenshot Projek yang telah dijalankan</h2>
 
 ![Projek](Screenshot/run_projek.jpg)
