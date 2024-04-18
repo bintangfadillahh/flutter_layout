@@ -104,16 +104,16 @@ class TitleSection extends StatelessWidget {
 }
 
 class CustomText extends StatelessWidget {
-  final String text;
-  final double padding;
-  final FontWeight fontWeight;
-
   const CustomText({
     super.key,
     required this.text,
     this.padding = 0.0,
     this.fontWeight = FontWeight.normal,
   });
+
+  final String text;
+  final double padding;
+  final FontWeight fontWeight;
 
   @override
   Widget build(BuildContext context) {
